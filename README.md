@@ -23,6 +23,6 @@
 12. Кужельная Оксана Владимировна (Дима Х., Виктория Ш.)
 13. Готская Ирина Борисовна (Егор, Маргарита)
 
-Источник информации для страниц: https://ict.herzen.spb.ru/department/employees
+Источник информации для страниц: https://ict.herzen.spb.ru/department/employees  
 Образец новой страницы: https://ict.herzen.spb.ru/department-u/employees/vlasova-e-z
 
